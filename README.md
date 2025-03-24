@@ -1,5 +1,5 @@
 # nugetchromedriver
-This program could download chromedriver from nuget automatically.
+This program could help you to download Chromedriver from nuget automatically.
 
 A few years ago, we wrote a web‑scraping program for a client that could automatically update ChromeDriver. However, once the client put a firewall in place, issues began to occur.
 
